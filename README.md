@@ -6,6 +6,7 @@ PHP basic for sending email with Gmail.
 * PHP 8.0 or above
 * PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
 * Gmail or other email provider
+* XAMPP or other web server / hosting
 
 ## Email Setting
 * Enable 2 Factor Verification
